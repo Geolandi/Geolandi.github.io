@@ -2,4 +2,4 @@
 
 Welcome!
 
-Here you can find updates on my reseearch.
+Here you can find updates on my research.
