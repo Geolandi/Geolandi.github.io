@@ -6,10 +6,7 @@ author_profile: false
 ---
 
 {% include feature_row %}
-<<<<<<< HEAD
-=======
 [2025-01-24](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-24)\
->>>>>>> de5eb6dc (2024-01-24)
 [2025-01-23](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-23)\
 [2025-01-22](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-22)\
 [2025-01-21](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-21)\
