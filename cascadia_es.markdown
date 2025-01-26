@@ -6,4 +6,5 @@ author_profile: false
 ---
 
 {% include feature_row %}
-[2025-01-06](https://github.com/Geolandi/cex/blob/main/Scenarios/Cascadia/ES/2025-01-06)
+[2024-08-24](https://near-real-time-sse.esc.cam.ac.uk/results/2024-08-24)
+[2024-08-06](https://near-real-time-sse.esc.cam.ac.uk/results/2024-08-06)
