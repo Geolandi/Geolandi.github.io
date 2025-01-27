@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 {% include feature_row %}
+[2025-01-25](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-25)\
 [2025-01-24](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-24)\
 [2025-01-23](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-23)\
 [2025-01-22](https://near-real-time-sse.esc.cam.ac.uk/results/2025-01-22)\
@@ -161,8 +162,4 @@ author_profile: false
 [2024-07-18](https://near-real-time-sse.esc.cam.ac.uk/results/2024-07-18)\
 [2024-07-16](https://near-real-time-sse.esc.cam.ac.uk/results/2024-07-16)\
 [2024-07-13](https://near-real-time-sse.esc.cam.ac.uk/results/2024-07-13)\
-<<<<<<< HEAD
-[2024-07-08](https://near-real-time-sse.esc.cam.ac.uk/results/2024-07-08)
-=======
 [2024-07-08](https://near-real-time-sse.esc.cam.ac.uk/results/2024-07-08)\
->>>>>>> de5eb6dc (2024-01-24)
