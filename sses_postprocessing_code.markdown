@@ -6,7 +6,7 @@ feature_row:
   - image_path: 
     alt: "Code for SSEs post-processing: Julia"
     #title: "SSEs post-processing code"
-    excerpt: '<img src="/assets/images/julia-logo-dark.svg" alt="Julia Logo" width="100"/><br>[SSEs post-processing code in Julia](https://github.com/Geolandi/sse_postprocessing)'
+    excerpt: '<img src="/assets/images/julia-logo-dark.svg" alt="Julia Logo" width="110"/><br>[SSEs post-processing code in Julia](https://github.com/Geolandi/sse_postprocessing)'
   - image_path: 
     alt: "Code for SSEs post-processing: Matlab"
     #title: "SSEs post-processing code"
