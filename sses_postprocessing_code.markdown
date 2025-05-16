@@ -3,14 +3,14 @@ layout: splash
 title: Slow Slip Events
 permalink: /software/sses_postprocessing_code/
 feature_row:
-  - image_path: /assets/images/Julia_Programming_Language_Logo.svg.png
+  - image_path: 
     alt: "Code for SSEs post-processing: Julia"
     #title: "SSEs post-processing code"
-    excerpt: "[SSEs post-processing code in Julia](http://????add Zenodo link)"
-  - image_path: /assets/images/Matlab_Logo.png
+    excerpt: '<img src="/assets/images/julia-logo-dark.svg" alt="Julia Logo" width="100"/><br>[SSEs post-processing code in Julia](https://github.com/Geolandi/sse_postprocessing)'
+  - image_path: 
     alt: "Code for SSEs post-processing: Matlab"
     #title: "SSEs post-processing code"
-    excerpt: "[SSEs post-processing code in Matlab](http://????add Zenodo link)"
+    excerpt: '<img src="/assets/images/Matlab_Logo.png" alt="Matlab Logo" width="80"/><br>[SSEs post-processing code in Matlab](https://github.com/Geolandi/sse_postprocessing_matlab)'
 ---
 
 {% include feature_row %}
