@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: single
 title: Cascadia
 permalink: /research/sses/cascadia/
+author_profile: false
 feature_row:
   - image_path: /assets/images/sse_cascadia.png
     alt: "Cascadia"
