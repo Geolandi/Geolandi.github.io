@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cascadia
-permalink: /research/sses/cascadia/
+permalink: /research/sses/cascadia/es/
 author_profile: false
 feature_row:
   - image_path: /assets/images/sse_cascadia.png
