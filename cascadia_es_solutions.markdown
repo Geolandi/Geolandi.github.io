@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Solutions from EarthScope position time series
-permalink: /research/sses/cascadia/es/
+permalink: /research/sses/cascadia/es/solutions/
 author_profile: false
 ---
 
@@ -163,4 +163,4 @@ author_profile: false
 [2024-07-18](https://near-real-time-sse.esc.cam.ac.uk/cascadia/2024-07-18)\
 [2024-07-16](https://near-real-time-sse.esc.cam.ac.uk/cascadia/2024-07-16)\
 [2024-07-13](https://near-real-time-sse.esc.cam.ac.uk/cascadia/2024-07-13)\
-[2024-07-08](https://near-real-time-sse.esc.cam.ac.uk/cascadia/2024-07-08)\
+[2024-07-08](https://near-real-time-sse.esc.cam.ac.uk/cascadia/2024-07-08)

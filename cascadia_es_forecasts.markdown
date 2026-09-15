@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Solutions from EarthScope position time series
-permalink: /research/sses/cascadia/es/
+permalink: /research/sses/cascadia/es/forecasts/
 author_profile: false
 ---
 
