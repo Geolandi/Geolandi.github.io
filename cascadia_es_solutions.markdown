@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Solutions from EarthScope position time series
+title: Solutions obtained with EarthScope position time series
 permalink: /research/sses/cascadia/es/solutions/
 author_profile: false
 ---
