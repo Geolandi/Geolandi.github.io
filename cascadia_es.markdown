@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Cascadia
+title: Cascadia ES
 permalink: /research/sses/cascadia/es/
 author_profile: false
 feature_row:
   - image_path: /assets/images/sse_cascadia.png
-    alt: "Cascadia"
-    title: "Cascadia"
+    alt: "Cascadia ES"
+    title: "Cascadia ES"
     excerpt: ""
 ---
 
