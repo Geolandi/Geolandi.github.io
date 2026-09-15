@@ -11,5 +11,5 @@ feature_row:
 
 {% include feature_row %}
 
-[Solutions with EarthScope time series for Cascadia](/research/sses/cascadia/es/solutions/)
+[Solutions with EarthScope time series for Cascadia](/research/sses/cascadia/es/solutions/)\
 [Forecasts with EarthScope time series for Cascadia](/research/sses/cascadia/es/forecasts/)
